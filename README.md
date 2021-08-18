@@ -16,3 +16,7 @@
   <img align="center" alt="Rafa-Cpluplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+ 
+<div>
+    ![Snake animation](https://github.com/nathalialo/nathalialo/blob/output/github-contribution-grid-snake.svg)
+</div>
