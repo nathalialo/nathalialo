@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Nathália 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C++ & Python
+- 🌱 Aprendendo C++ & Python
 - 😄 Pronomes: Ela/dela
+
  <div>
   <a href="http://github.com/nathalialo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalialo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -15,8 +15,4 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Cpluplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
- 
-<div>
-    ![Snake animation](https://github.com/nathalialo/nathalialo/blob/output/github-contribution-grid-snake.svg)
 </div>
