@@ -1,5 +1,3 @@
-<img aligh="left" alt="Nat-icon" width="100" height="118" border="0" src="https://i.picasion.com/pic91/6cfee7cef1cea3bee91cd5416efcc0d5.gif"> 
-
 ### Olá! Eu sou a Nathália 👋🏽⚙👾
  
 - 🌱 Aprendendo C++ & Python
