@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Nathália 👋🏽⚙👾
  
-- 🌱 Aprendendo C++ & Python
+- 🌱 Aprendendo C++ & Python & JS
 - 😄 Pronomes: Ela/dela
 
  <div>
