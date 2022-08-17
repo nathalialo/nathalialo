@@ -1,7 +1,7 @@
-### Olá! Eu sou a Nathália 👋🏽⚙👾
+### Hallo! Ich bin Nathália 👋🏽⚙👾
  
-- 🌱 Aprendendo C++ & Python & JS
-- 😄 Pronomes: Ela/dela
+- 🌱 Lernen C++ & Python & JS
+- 😄 Pronomen: sie/ihr
 
  <div>
   <a href="http://github.com/nathalialo">
