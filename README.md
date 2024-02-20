@@ -1,6 +1,6 @@
 ### Hallo! Ich bin Nathália 👋🏽⚙👾
  
-- 🌱 Lernen C++ & Python & JS
+- 🌱 Lernen C,Python & R
 - 😄 Pronomen: sie/ihr
 
  
