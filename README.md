@@ -1,4 +1,15 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="left">Hi, I’m Nathália, a Systems Engineering student.👋 What's up?</h1>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left"> ✨I'm not a developer✨<br>📚 Like many of us, I code when it’s the best option for a project, so I’m always learning a bit more of DS, C/C++ and Python. <br>🎯 Otimize some systems<br></p>
+
+###
+
 <img align="right" height="150" src="https://img1.picmix.com/output/stamp/normal/7/7/4/8/2628477_d6f69.gif"  />
 
 ###
@@ -12,6 +23,10 @@
 <div>
 <img src="./workflow/Assets/animacao_transparente_compacto.gif" width="150"></div>
 
+###
+<h2 align="left">I code with</h2>
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
