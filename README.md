@@ -1,14 +1,14 @@
-<h3 align="left">Hi,👋 What's up?</h3>
+<h3 align="left">Hi,👋🏽 What's up?</h3>
 
 ###
-<p align="left">I’m Nathália, a Systems Engineering student.</p>
+<p align="left">I’m Nathália, a Systems Engineering student.⚙️⚙️</p>
 
 ###
 <h3 align="left">About me</h3>
 
 ###
 
-<p align="left"> ✨I'm not a developer✨<br>📚 Like many of us, I code when it’s the best option for a project, so I’m always learning a bit more of DS, C/C++ and Python. <br>🎯 Otimize some systems<br></p>
+<p align="left"> ✨I'm not a developer✨<br>📚 Like many of us, I code when it’s the best option for a project, so I’m always learning a bit more of DS, C/C++ and Python. <br>🎯 Become an engineer, simulate and optimize systems, and much more <br></p>
 
 ###
 
@@ -18,8 +18,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathalialo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
+<a href="https://github.com/nathalialo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalialo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalialo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ###
