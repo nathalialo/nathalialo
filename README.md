@@ -1,8 +1,10 @@
-<h1 align="left">Hi, I’m Nathália, a Systems Engineering student.👋 What's up?</h1>
+<h3 align="left">Hi,👋 What's up?</h3>
 
 ###
+<p align="left">I’m Nathália, a Systems Engineering student.</p>
 
-<h2 align="left">About me</h2>
+###
+<h3 align="left">About me</h3>
 
 ###
 
