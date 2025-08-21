@@ -7,8 +7,12 @@
 <h3 align="left">About me</h3>
 
 ###
+<p align="left">
+✨ I'm not a developer ✨ <br>
+📚 I code when it feels like the best tool for the job — which means I keep learning a bit more about DS, C/C++, and Python along the way. <br>
+🎯 Right now, my goal is to become an engineer, simulate and optimize systems, and explore much more. <br>
+</p>
 
-<p align="left"> ✨I'm not a developer✨<br>📚 Like many of us, I code when it’s the best option for a project, so I’m always learning a bit more of DS, C/C++ and Python. <br>🎯 Become an engineer, simulate and optimize systems, and much more <br></p>
 
 ###
 
