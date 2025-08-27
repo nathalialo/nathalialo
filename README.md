@@ -24,7 +24,7 @@
 <div align="left">
 <a href="https://github.com/nathalialo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalialo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img loading="lazy" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalialo&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalialo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ###
