@@ -18,14 +18,6 @@
 
 <img align="right" height="150" src="https://img1.picmix.com/output/stamp/normal/7/7/4/8/2628477_d6f69.gif"  />
 
-###
-###
-
-<div align="left">
-<a href="https://github.com/nathalialo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalialo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalialo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ###
 ###
