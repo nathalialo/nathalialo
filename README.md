@@ -22,15 +22,11 @@
 ###
 ###
 <div align="left">
-  <img src="https://icongr.am/devicon/html5-plain.svg?size=41&color=863aed" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://icongr.am/devicon/css3-plain.svg?size=41&color=863aed" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://icongr.am/devicon/python-plain.svg?size=41&color=863aed" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://icongr.am/devicon/c-line.svg?size=41&color=63e9b4" height="37" alt="c logo"  />
-  <img width="12" />
-  <img src="https://icongr.am/devicon/cplusplus-line.svg?size=41&color=63e9b4" height="37" alt="cplusplus logo"  />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&color=%2310b981" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=css3&color=%2310b981" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=c&size=44&animation=glow&color=%2310b981"  />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=python&color=%2310b981" />
+ 
 </div>
 
 ###
